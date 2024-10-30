@@ -40,9 +40,9 @@ This project showcases my expertise in developing responsive, user-friendly dire
 
 ## 👨‍💻 About the Developer
 
-At Metaviz, we have a team of experienced *Brilliant Directories* developers. This project showcases my ability to build feature-rich directories that deliver real value to both users and service providers.
+At Metaviz, we have a team of experienced *Brilliant Directories* developers. This project showcases our ability to build feature-rich directories that deliver real value to both users and service providers.
 
-If you're looking for a **Brilliant Directory** expert to develop or enhance your directory platform, let's collaborate and create a powerful tool for your business!
+If you're looking for a **Brilliant Directory** expert to develop or enhance your directory platform, let's collaborate with us and create a powerful tool for your business!
 
 ---
 
@@ -53,4 +53,4 @@ If you're looking for a **Brilliant Directory** expert to develop or enhance you
 
 ---
 
-*Hire me* to elevate your Brilliant Directories project, and let’s build a platform that meets your business needs!
+*Hire our team* to elevate your Brilliant Directories project, and let’s build a platform that meets your business needs!
